@@ -1,0 +1,12 @@
+:root {
+  --pdf-background: var(--grey-2);
+  --tools-header-background: var(--grey-3);
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+}
